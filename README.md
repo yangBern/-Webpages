@@ -13,6 +13,6 @@
 上部分页面:</br>
 ![image](https://github.com/xiaola66/-Webpages/blob/master/%E6%8B%89%E5%8B%BE%E7%BD%91/lagou1.png)
 隐藏职位列表:</br>
-![image](https://github.com/xiaola66/-Webpages/blob/master/%E6%8B%89%E5%8B%BE%E7%BD%91/lagou1.png)
+![image](https://github.com/xiaola66/-Webpages/blob/master/%E6%8B%89%E5%8B%BE%E7%BD%91/lagou2.png)
 热门职位列表:</br>
-![image](https://github.com/xiaola66/-Webpages/blob/master/%E6%8B%89%E5%8B%BE%E7%BD%91/lagou1.png)
+![image](https://github.com/xiaola66/-Webpages/blob/master/%E6%8B%89%E5%8B%BE%E7%BD%91/lagou3.png)
